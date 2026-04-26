@@ -1,0 +1,13 @@
+title: Econor
+description: Econor s.r.o. develops and publishes iPhone apps.
+url: https://econor.org
+domain: econor.org
+lang: en
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
