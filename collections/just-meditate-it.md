@@ -38,7 +38,7 @@ breadcrumbs:
           <p class="muted">General wellness only. It is not medical care, diagnosis, treatment, or emergency assistance.</p>
           <div class="app-links">
             <a href="https://justmeditateit.substack.com/p/the-ice-cube-trick-reset-anxiety" target="_blank" rel="noreferrer">Read article</a>
-            <a href="https://apps.apple.com/app/id0000000000" target="_blank" rel="noreferrer">View on App Store</a>
+            <a href="https://apps.apple.com/app/panic-reset-ice-cube/id6773330441" target="_blank" rel="noreferrer">View on App Store</a>
           </div>
         </div>
       </div>
