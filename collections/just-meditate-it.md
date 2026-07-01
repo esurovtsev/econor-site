@@ -43,5 +43,22 @@ breadcrumbs:
         </div>
       </div>
     </section>
+    <section class="row-item">
+      <div class="app-entry">
+        <div class="app-icon">
+          <img src="{{ '/assets/images/apps/jaw-release-icon.png' | relative_url }}" alt="Jaw Release – Break The Pattern app icon">
+        </div>
+        <div>
+          <h3>Jaw Release – Break The Pattern</h3>
+          <p>A guided reset app for moments of repeated jaw tension.</p>
+          <p>Inspired by the article “Your Jaw Keeps Tightening. Break It,” it guides the user through a short jaw-release exercise designed to interrupt repeated tension and help the jaw return to a softer resting position.</p>
+          <p class="muted">General wellness only. It is not medical care, diagnosis, treatment, cure, or emergency assistance.</p>
+          <div class="app-links">
+            <a href="https://justmeditateit.substack.com/p/your-jaw-keeps-tightening-break-it" target="_blank" rel="noreferrer">Read article</a>
+            <a href="https://apps.apple.com/app/jaw-release-pattern-break/id6780248742" target="_blank" rel="noreferrer">View on App Store</a>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </section>
